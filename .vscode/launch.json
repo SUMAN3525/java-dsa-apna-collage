@@ -1,0 +1,1040 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "set_matrix_Zero",
+            "request": "launch",
+            "mainClass": "set_matrix_Zero",
+            "projectName": "java dsa apna collage_f75ee87"
+        },
+        {
+            "type": "java",
+            "name": "Sum_diagonal",
+            "request": "launch",
+            "mainClass": "Sum_diagonal",
+            "projectName": "java dsa apna collage_f75ee87"
+        },
+        {
+            "type": "java",
+            "name": "Upside_doun_matrix",
+            "request": "launch",
+            "mainClass": "Upside_doun_matrix",
+            "projectName": "java dsa apna collage_f75ee87"
+        },
+        {
+            "type": "java",
+            "name": "ZigZagMatrix",
+            "request": "launch",
+            "mainClass": "ZigZagMatrix",
+            "projectName": "java dsa apna collage_f75ee87"
+        },
+        {
+            "type": "java",
+            "name": "Zig_Zag",
+            "request": "launch",
+            "mainClass": "Zig_Zag",
+            "projectName": "java dsa apna collage_f75ee87"
+        },
+        {
+            "type": "java",
+            "name": "accentures",
+            "request": "launch",
+            "mainClass": "accentures",
+            "projectName": "java dsa apna collage_f75ee87"
+        },
+        {
+            "type": "java",
+            "name": "string",
+            "request": "launch",
+            "mainClass": "string",
+            "projectName": "java dsa apna collage_f75ee87"
+        },
+        {
+            "type": "java",
+            "name": "factorial",
+            "request": "launch",
+            "mainClass": "factorial",
+            "projectName": "java dsa apna collage_f75ee87"
+        },
+        {
+            "type": "java",
+            "name": "factorial_tialing_zero",
+            "request": "launch",
+            "mainClass": "factorial_tialing_zero",
+            "projectName": "java dsa apna collage_f75ee87"
+        },
+        {
+            "type": "java",
+            "name": "grav_code",
+            "request": "launch",
+            "mainClass": "grav_code",
+            "projectName": "java dsa apna collage_f75ee87"
+        },
+        {
+            "type": "java",
+            "name": "Goodnumber",
+            "request": "launch",
+            "mainClass": "Goodnumber",
+            "projectName": "java dsa apna collage_f75ee87"
+        },
+        {
+            "type": "java",
+            "name": "max_row_tcsnqt",
+            "request": "launch",
+            "mainClass": "max_row_tcsnqt",
+            "projectName": "java dsa apna collage_f75ee87"
+        },
+        {
+            "type": "java",
+            "name": "time_travel",
+            "request": "launch",
+            "mainClass": "time_travel",
+            "projectName": "java dsa apna collage_f75ee87"
+        },
+        {
+            "type": "java",
+            "name": "max_use_math",
+            "request": "launch",
+            "mainClass": "max_use_math",
+            "projectName": "java dsa apna collage_f75ee87"
+        },
+        {
+            "type": "java",
+            "name": "max_usemath",
+            "request": "launch",
+            "mainClass": "max_usemath",
+            "projectName": "java dsa apna collage_f75ee87"
+        },
+        {
+            "type": "java",
+            "name": "Store_water_arraylist",
+            "request": "launch",
+            "mainClass": "Store_water_arraylist",
+            "projectName": "java dsa apna collage_f75ee87"
+        },
+        {
+            "type": "java",
+            "name": "coin",
+            "request": "launch",
+            "mainClass": "coin",
+            "projectName": "java dsa apna collage_f75ee87"
+        },
+        {
+            "type": "java",
+            "name": "remove",
+            "request": "launch",
+            "mainClass": "remove",
+            "projectName": "java dsa apna collage_f75ee87"
+        },
+        {
+            "type": "java",
+            "name": "divisible",
+            "request": "launch",
+            "mainClass": "divisible",
+            "projectName": "java dsa apna collage_f75ee87"
+        },
+        {
+            "type": "java",
+            "name": "change_char",
+            "request": "launch",
+            "mainClass": "change_char",
+            "projectName": "java dsa apna collage_f75ee87"
+        },
+        {
+            "type": "java",
+            "name": "excution",
+            "request": "launch",
+            "mainClass": "excution",
+            "projectName": "java dsa apna collage_f75ee87"
+        },
+        {
+            "type": "java",
+            "name": "Index",
+            "request": "launch",
+            "mainClass": "Index",
+            "projectName": "java dsa apna collage_f75ee87"
+        },
+        {
+            "type": "java",
+            "name": "ValidParentheses",
+            "request": "launch",
+            "mainClass": "ValidParentheses",
+            "projectName": "java dsa apna collage_f75ee87"
+        },
+        {
+            "type": "java",
+            "name": "prifix",
+            "request": "launch",
+            "mainClass": "prifix",
+            "projectName": "java dsa apna collage_f75ee87"
+        },
+        {
+            "type": "java",
+            "name": "palidrom",
+            "request": "launch",
+            "mainClass": "palidrom",
+            "projectName": "java dsa apna collage_f75ee87"
+        },
+        {
+            "type": "java",
+            "name": "bubbleA",
+            "request": "launch",
+            "mainClass": "bubbleA",
+            "projectName": "java dsa apna collage_f75ee87"
+        },
+        {
+            "type": "java",
+            "name": "half_piramid_a",
+            "request": "launch",
+            "mainClass": "half_piramid_a",
+            "projectName": "java dsa apna collage_f75ee87"
+        },
+        {
+            "type": "java",
+            "name": "ismplements",
+            "request": "launch",
+            "mainClass": "ismplements",
+            "projectName": "java dsa apna collage_f75ee87"
+        },
+        {
+            "type": "java",
+            "name": "Char_occur",
+            "request": "launch",
+            "mainClass": "Char_occur",
+            "projectName": "java dsa apna collage_f75ee87"
+        },
+        {
+            "type": "java",
+            "name": "calls",
+            "request": "launch",
+            "mainClass": "calls",
+            "projectName": "java dsa apna collage_f75ee87"
+        },
+        {
+            "type": "java",
+            "name": "TIT",
+            "request": "launch",
+            "mainClass": "TIT",
+            "projectName": "java dsa apna collage_f75ee87"
+        },
+        {
+            "type": "java",
+            "name": "mainl",
+            "request": "launch",
+            "mainClass": "mainl",
+            "projectName": "java dsa apna collage_f75ee87"
+        },
+        {
+            "type": "java",
+            "name": "fizz_buzz",
+            "request": "launch",
+            "mainClass": "fizz_buzz",
+            "projectName": "java dsa apna collage_f75ee87"
+        },
+        {
+            "type": "java",
+            "name": "TwoD_Array_List",
+            "request": "launch",
+            "mainClass": "TwoD_Array_List",
+            "projectName": "java dsa apna collage_f75ee87"
+        },
+        {
+            "type": "java",
+            "name": "sort_ArrayList",
+            "request": "launch",
+            "mainClass": "sort_ArrayList",
+            "projectName": "java dsa apna collage_f75ee87"
+        },
+        {
+            "type": "java",
+            "name": "Swap_ArrayList",
+            "request": "launch",
+            "mainClass": "Swap_ArrayList",
+            "projectName": "java dsa apna collage_f75ee87"
+        },
+        {
+            "type": "java",
+            "name": "mergs_leedcode",
+            "request": "launch",
+            "mainClass": "mergs_leedcode",
+            "projectName": "java dsa apna collage_f75ee87"
+        },
+        {
+            "type": "java",
+            "name": "basic",
+            "request": "launch",
+            "mainClass": "basic",
+            "projectName": "java dsa apna collage_f75ee87"
+        },
+        {
+            "type": "java",
+            "name": "multiply",
+            "request": "launch",
+            "mainClass": "multiply",
+            "projectName": "java dsa apna collage_f75ee87"
+        },
+        {
+            "type": "java",
+            "name": "greater_Array_list",
+            "request": "launch",
+            "mainClass": "greater_Array_list",
+            "projectName": "java dsa apna collage_f75ee87"
+        },
+        {
+            "type": "java",
+            "name": "reverse_arraylist",
+            "request": "launch",
+            "mainClass": "reverse_arraylist",
+            "projectName": "java dsa apna collage_f75ee87"
+        },
+        {
+            "type": "java",
+            "name": "ArrayList_loop",
+            "request": "launch",
+            "mainClass": "ArrayList_loop",
+            "projectName": "java dsa apna collage_f75ee87"
+        },
+        {
+            "type": "java",
+            "name": "basic_arraylist",
+            "request": "launch",
+            "mainClass": "basic_arraylist",
+            "projectName": "java dsa apna collage_f75ee87"
+        },
+        {
+            "type": "java",
+            "name": "subset_backstrack",
+            "request": "launch",
+            "mainClass": "subset_backstrack",
+            "projectName": "java dsa apna collage_f75ee87"
+        },
+        {
+            "type": "java",
+            "name": "array_backstrack",
+            "request": "launch",
+            "mainClass": "array_backstrack",
+            "projectName": "java dsa apna collage_f75ee87"
+        },
+        {
+            "type": "java",
+            "name": "accenture",
+            "request": "launch",
+            "mainClass": "accenture",
+            "projectName": "java dsa apna collage_f75ee87"
+        },
+        {
+            "type": "java",
+            "name": "friends_recurtion",
+            "request": "launch",
+            "mainClass": "friends_recurtion",
+            "projectName": "java dsa apna collage_f75ee87"
+        },
+        {
+            "type": "java",
+            "name": "tilling_recurtion",
+            "request": "launch",
+            "mainClass": "tilling_recurtion",
+            "projectName": "java dsa apna collage_f75ee87"
+        },
+        {
+            "type": "java",
+            "name": "prime",
+            "request": "launch",
+            "mainClass": "prime",
+            "projectName": "java dsa apna collage_f75ee87"
+        },
+        {
+            "type": "java",
+            "name": "practice_fs_recursion",
+            "request": "launch",
+            "mainClass": "practice_fs_recursion",
+            "projectName": "java dsa apna collage_f75ee87"
+        },
+        {
+            "type": "java",
+            "name": "power_ocupy_recurtion",
+            "request": "launch",
+            "mainClass": "power_ocupy_recurtion",
+            "projectName": "java dsa apna collage_f75ee87"
+        },
+        {
+            "type": "java",
+            "name": "power_recurtion",
+            "request": "launch",
+            "mainClass": "power_recurtion",
+            "projectName": "java dsa apna collage_f75ee87"
+        },
+        {
+            "type": "java",
+            "name": "last_occur_recurtion",
+            "request": "launch",
+            "mainClass": "last_occur_recurtion",
+            "projectName": "java dsa apna collage_f75ee87"
+        },
+        {
+            "type": "java",
+            "name": "function",
+            "request": "launch",
+            "mainClass": "function",
+            "projectName": "java dsa apna collage_f75ee87"
+        },
+        {
+            "type": "java",
+            "name": "First_ocuur_recution",
+            "request": "launch",
+            "mainClass": "First_ocuur_recution",
+            "projectName": "java dsa apna collage_f75ee87"
+        },
+        {
+            "type": "java",
+            "name": "soting_recution",
+            "request": "launch",
+            "mainClass": "soting_recution",
+            "projectName": "java dsa apna collage_f75ee87"
+        },
+        {
+            "type": "java",
+            "name": "fibonacci_recution",
+            "request": "launch",
+            "mainClass": "fibonacci_recution",
+            "projectName": "java dsa apna collage_f75ee87"
+        },
+        {
+            "type": "java",
+            "name": "n_sum_recurtion",
+            "request": "launch",
+            "mainClass": "n_sum_recurtion",
+            "projectName": "java dsa apna collage_f75ee87"
+        },
+        {
+            "type": "java",
+            "name": "construction",
+            "request": "launch",
+            "mainClass": "construction",
+            "projectName": "java dsa apna collage_f75ee87"
+        },
+        {
+            "type": "java",
+            "name": "Demo",
+            "request": "launch",
+            "mainClass": "Demo",
+            "projectName": "java dsa apna collage_f75ee87"
+        },
+        {
+            "type": "java",
+            "name": "merge_array",
+            "request": "launch",
+            "mainClass": "merge_array",
+            "projectName": "java dsa apna collage_f75ee87"
+        },
+        {
+            "type": "java",
+            "name": "Combination_sum",
+            "request": "launch",
+            "mainClass": "Combination_sum",
+            "projectName": "java dsa apna collage_f75ee87"
+        },
+        {
+            "type": "java",
+            "name": "position",
+            "request": "launch",
+            "mainClass": "position",
+            "projectName": "java dsa apna collage_f75ee87"
+        },
+        {
+            "type": "java",
+            "name": "max_num_rotated",
+            "request": "launch",
+            "mainClass": "max_num_rotated",
+            "projectName": "java dsa apna collage_f75ee87"
+        },
+        {
+            "type": "java",
+            "name": "ROTATED",
+            "request": "launch",
+            "mainClass": "ROTATED",
+            "projectName": "java dsa apna collage_f75ee87"
+        },
+        {
+            "type": "java",
+            "name": "Solution",
+            "request": "launch",
+            "mainClass": "Solution",
+            "projectName": "java dsa apna collage_f75ee87"
+        },
+        {
+            "type": "java",
+            "name": "Find_min",
+            "request": "launch",
+            "mainClass": "Find_min",
+            "projectName": "java dsa apna collage_f75ee87"
+        },
+        {
+            "type": "java",
+            "name": "profit_loss",
+            "request": "launch",
+            "mainClass": "profit_loss",
+            "projectName": "java dsa apna collage_f75ee87"
+        },
+        {
+            "type": "java",
+            "name": "Recuriting",
+            "request": "launch",
+            "mainClass": "Recuriting",
+            "projectName": "java dsa apna collage_f75ee87"
+        },
+        {
+            "type": "java",
+            "name": "ractangular",
+            "request": "launch",
+            "mainClass": "ractangular",
+            "projectName": "java dsa apna collage_f75ee87"
+        },
+        {
+            "type": "java",
+            "name": "twoD_matrix",
+            "request": "launch",
+            "mainClass": "twoD_matrix",
+            "projectName": "java dsa apna collage_f75ee87"
+        },
+        {
+            "type": "java",
+            "name": "recuriting_factor",
+            "request": "launch",
+            "mainClass": "recuriting_factor",
+            "projectName": "java dsa apna collage_f75ee87"
+        },
+        {
+            "type": "java",
+            "name": "funtion",
+            "request": "launch",
+            "mainClass": "funtion",
+            "projectName": "java dsa apna collage_f75ee87"
+        },
+        {
+            "type": "java",
+            "name": "recuritinginc",
+            "request": "launch",
+            "mainClass": "recuritinginc",
+            "projectName": "java dsa apna collage_f75ee87"
+        },
+        {
+            "type": "java",
+            "name": "recurtingbasic",
+            "request": "launch",
+            "mainClass": "recurtingbasic",
+            "projectName": "java dsa apna collage_f75ee87"
+        },
+        {
+            "type": "java",
+            "name": "flipkart",
+            "request": "launch",
+            "mainClass": "flipkart",
+            "projectName": "java dsa apna collage_f75ee87"
+        },
+        {
+            "type": "java",
+            "name": "leetcod_single_number",
+            "request": "launch",
+            "mainClass": "leetcod_single_number",
+            "projectName": "java dsa apna collage_f75ee87"
+        },
+        {
+            "type": "java",
+            "name": "leetcode_roman",
+            "request": "launch",
+            "mainClass": "leetcode_roman",
+            "projectName": "java dsa apna collage_f75ee87"
+        },
+        {
+            "type": "java",
+            "name": "t_p",
+            "request": "launch",
+            "mainClass": "t_p",
+            "projectName": "java dsa apna collage_f75ee87"
+        },
+        {
+            "type": "java",
+            "name": "arvin_sir",
+            "request": "launch",
+            "mainClass": "arvin_sir",
+            "projectName": "java dsa apna collage_f75ee87"
+        },
+        {
+            "type": "java",
+            "name": "practiceopps_2",
+            "request": "launch",
+            "mainClass": "practiceopps_2",
+            "projectName": "java dsa apna collage_f75ee87"
+        },
+        {
+            "type": "java",
+            "name": "practiceoops_1",
+            "request": "launch",
+            "mainClass": "practiceoops_1",
+            "projectName": "java dsa apna collage_f75ee87"
+        },
+        {
+            "type": "java",
+            "name": "call",
+            "request": "launch",
+            "mainClass": "call",
+            "projectName": "java dsa apna collage_f75ee87"
+        },
+        {
+            "type": "java",
+            "name": "practice_1",
+            "request": "launch",
+            "mainClass": "practice_1",
+            "projectName": "java dsa apna collage_f75ee87"
+        },
+        {
+            "type": "java",
+            "name": "practice_2",
+            "request": "launch",
+            "mainClass": "practice_2",
+            "projectName": "java dsa apna collage_f75ee87"
+        },
+        {
+            "type": "java",
+            "name": "sup",
+            "request": "launch",
+            "mainClass": "sup",
+            "projectName": "java dsa apna collage_f75ee87"
+        },
+        {
+            "type": "java",
+            "name": "static_keyword",
+            "request": "launch",
+            "mainClass": "static_keyword",
+            "projectName": "java dsa apna collage_f75ee87"
+        },
+        {
+            "type": "java",
+            "name": "implement",
+            "request": "launch",
+            "mainClass": "implement",
+            "projectName": "java dsa apna collage_f75ee87"
+        },
+        {
+            "type": "java",
+            "name": "abstraction",
+            "request": "launch",
+            "mainClass": "abstraction",
+            "projectName": "java dsa apna collage_f75ee87"
+        },
+        {
+            "type": "java",
+            "name": "method_overloding",
+            "request": "launch",
+            "mainClass": "method_overloding",
+            "projectName": "java dsa apna collage_f75ee87"
+        },
+        {
+            "type": "java",
+            "name": "multi_level_inheritance",
+            "request": "launch",
+            "mainClass": "multi_level_inheritance",
+            "projectName": "java dsa apna collage_f75ee87"
+        },
+        {
+            "type": "java",
+            "name": "inheritance",
+            "request": "launch",
+            "mainClass": "inheritance",
+            "projectName": "java dsa apna collage_f75ee87"
+        },
+        {
+            "type": "java",
+            "name": "bitwise_clear",
+            "request": "launch",
+            "mainClass": "bitwise_clear",
+            "projectName": "java dsa apna collage_f75ee87"
+        },
+        {
+            "type": "java",
+            "name": "oops_practice",
+            "request": "launch",
+            "mainClass": "oops_practice",
+            "projectName": "java dsa apna collage_f75ee87"
+        },
+        {
+            "type": "java",
+            "name": "funmax",
+            "request": "launch",
+            "mainClass": "funmax",
+            "projectName": "java dsa apna collage_f75ee87"
+        },
+        {
+            "type": "java",
+            "name": "constructor",
+            "request": "launch",
+            "mainClass": "constructor",
+            "projectName": "java dsa apna collage_f75ee87"
+        },
+        {
+            "type": "java",
+            "name": "even_odd_1",
+            "request": "launch",
+            "mainClass": "even_odd_1",
+            "projectName": "java dsa apna collage_f75ee87"
+        },
+        {
+            "type": "java",
+            "name": "even",
+            "request": "launch",
+            "mainClass": "even",
+            "projectName": "java dsa apna collage_f75ee87"
+        },
+        {
+            "type": "java",
+            "name": "even_odd",
+            "request": "launch",
+            "mainClass": "even_odd",
+            "projectName": "java dsa apna collage_f75ee87"
+        },
+        {
+            "type": "java",
+            "name": "output",
+            "request": "launch",
+            "mainClass": "output",
+            "projectName": "java dsa apna collage_f75ee87"
+        },
+        {
+            "type": "java",
+            "name": "result",
+            "request": "launch",
+            "mainClass": "result",
+            "projectName": "java dsa apna collage_f75ee87"
+        },
+        {
+            "type": "java",
+            "name": "true_false",
+            "request": "launch",
+            "mainClass": "true_false",
+            "projectName": "java dsa apna collage_f75ee87"
+        },
+        {
+            "type": "java",
+            "name": "sum",
+            "request": "launch",
+            "mainClass": "sum",
+            "projectName": "java dsa apna collage_f75ee87"
+        },
+        {
+            "type": "java",
+            "name": "oops",
+            "request": "launch",
+            "mainClass": "oops",
+            "projectName": "java dsa apna collage_f75ee87"
+        },
+        {
+            "type": "java",
+            "name": "construction",
+            "request": "launch",
+            "mainClass": "construction",
+            "projectName": "java dsa apna collage_13745fa8"
+        },
+        {
+            "type": "java",
+            "name": "oops_practice",
+            "request": "launch",
+            "mainClass": "oops_practice",
+            "projectName": "java dsa apna collage_13745fa8"
+        },
+        {
+            "type": "java",
+            "name": "constructor",
+            "request": "launch",
+            "mainClass": "constructor",
+            "projectName": "java dsa apna collage_13745fa8"
+        },
+        {
+            "type": "java",
+            "name": "oops",
+            "request": "launch",
+            "mainClass": "oops",
+            "projectName": "java dsa apna collage_13745fa8"
+        },
+        {
+            "type": "java",
+            "name": "bitwise_clearlast",
+            "request": "launch",
+            "mainClass": "bitwise_clearlast",
+            "projectName": "java dsa apna collage_13745fa8"
+        },
+        {
+            "type": "java",
+            "name": "bitwise_clear",
+            "request": "launch",
+            "mainClass": "bitwise_clear",
+            "projectName": "java dsa apna collage_13745fa8"
+        },
+        {
+            "type": "java",
+            "name": "bitwise_set",
+            "request": "launch",
+            "mainClass": "bitwise_set",
+            "projectName": "java dsa apna collage_13745fa8"
+        },
+        {
+            "type": "java",
+            "name": "bitwise_get",
+            "request": "launch",
+            "mainClass": "bitwise_get",
+            "projectName": "java dsa apna collage_13745fa8"
+        },
+        {
+            "type": "java",
+            "name": "bitwise_odd",
+            "request": "launch",
+            "mainClass": "bitwise_odd",
+            "projectName": "java dsa apna collage_13745fa8"
+        },
+        {
+            "type": "java",
+            "name": "bitwise_rightshift",
+            "request": "launch",
+            "mainClass": "bitwise_rightshift",
+            "projectName": "java dsa apna collage_13745fa8"
+        },
+        {
+            "type": "java",
+            "name": "bitwise_leftshift",
+            "request": "launch",
+            "mainClass": "bitwise_leftshift",
+            "projectName": "java dsa apna collage_13745fa8"
+        },
+        {
+            "type": "java",
+            "name": "bitwise_NOR",
+            "request": "launch",
+            "mainClass": "bitwise_NOR",
+            "projectName": "java dsa apna collage_13745fa8"
+        },
+        {
+            "type": "java",
+            "name": "bitwise_XOR",
+            "request": "launch",
+            "mainClass": "bitwise_XOR",
+            "projectName": "java dsa apna collage_13745fa8"
+        },
+        {
+            "type": "java",
+            "name": "bitwise_OR",
+            "request": "launch",
+            "mainClass": "bitwise_OR",
+            "projectName": "java dsa apna collage_13745fa8"
+        },
+        {
+            "type": "java",
+            "name": "bitwise_AND",
+            "request": "launch",
+            "mainClass": "bitwise_AND",
+            "projectName": "java dsa apna collage_13745fa8"
+        },
+        {
+            "type": "java",
+            "name": "letter",
+            "request": "launch",
+            "mainClass": "out.letter",
+            "projectName": "java dsa apna collage_13745fa8"
+        },
+        {
+            "type": "java",
+            "name": "string_builder",
+            "request": "launch",
+            "mainClass": "out.string_builder",
+            "projectName": "java dsa apna collage_13745fa8"
+        },
+        {
+            "type": "java",
+            "name": "iluminate",
+            "request": "launch",
+            "mainClass": "out.iluminate",
+            "projectName": "java dsa apna collage_13745fa8"
+        },
+        {
+            "type": "java",
+            "name": "largest_string",
+            "request": "launch",
+            "mainClass": "out.largest_string",
+            "projectName": "java dsa apna collage_13745fa8"
+        },
+        {
+            "type": "java",
+            "name": "substring",
+            "request": "launch",
+            "mainClass": "out.substring",
+            "projectName": "java dsa apna collage_13745fa8"
+        },
+        {
+            "type": "java",
+            "name": "String_function",
+            "request": "launch",
+            "mainClass": "out.String_function",
+            "projectName": "java dsa apna collage_13745fa8"
+        },
+        {
+            "type": "java",
+            "name": "shorte",
+            "request": "launch",
+            "mainClass": "out.shorte",
+            "projectName": "java dsa apna collage_13745fa8"
+        },
+        {
+            "type": "java",
+            "name": "shortest",
+            "request": "launch",
+            "mainClass": "shortest",
+            "projectName": "java dsa apna collage_13745fa8"
+        },
+        {
+            "type": "java",
+            "name": "palindrome",
+            "request": "launch",
+            "mainClass": "palindrome",
+            "projectName": "java dsa apna collage_13745fa8"
+        },
+        {
+            "type": "java",
+            "name": "char_at",
+            "request": "launch",
+            "mainClass": "char_at",
+            "projectName": "java dsa apna collage_13745fa8"
+        },
+        {
+            "type": "java",
+            "name": "string",
+            "request": "launch",
+            "mainClass": "string",
+            "projectName": "java dsa apna collage_13745fa8"
+        },
+        {
+            "type": "java",
+            "name": "selection",
+            "request": "launch",
+            "mainClass": "selection",
+            "projectName": "java dsa apna collage_13745fa8"
+        },
+        {
+            "type": "java",
+            "name": "bubbleA",
+            "request": "launch",
+            "mainClass": "bubbleA",
+            "projectName": "java dsa apna collage_13745fa8"
+        },
+        {
+            "type": "java",
+            "name": "half_piramid_a",
+            "request": "launch",
+            "mainClass": "half_piramid_a",
+            "projectName": "java dsa apna collage_13745fa8"
+        },
+        {
+            "type": "java",
+            "name": "ractangular",
+            "request": "launch",
+            "mainClass": "ractangular",
+            "projectName": "java dsa apna collage_13745fa8"
+        },
+        {
+            "type": "java",
+            "name": "prime",
+            "request": "launch",
+            "mainClass": "prime",
+            "projectName": "java dsa apna collage_13745fa8"
+        },
+        {
+            "type": "java",
+            "name": "functionover",
+            "request": "launch",
+            "mainClass": "functionover",
+            "projectName": "java dsa apna collage_13745fa8"
+        },
+        {
+            "type": "java",
+            "name": "bionomial",
+            "request": "launch",
+            "mainClass": "bionomial",
+            "projectName": "java dsa apna collage_13745fa8"
+        },
+        {
+            "type": "java",
+            "name": "funmax",
+            "request": "launch",
+            "mainClass": "funmax",
+            "projectName": "java dsa apna collage_13745fa8"
+        },
+        {
+            "type": "java",
+            "name": "factorial",
+            "request": "launch",
+            "mainClass": "factorial",
+            "projectName": "java dsa apna collage_13745fa8"
+        },
+        {
+            "type": "java",
+            "name": "multiply",
+            "request": "launch",
+            "mainClass": "multiply",
+            "projectName": "java dsa apna collage_13745fa8"
+        },
+        {
+            "command": "npm start",
+            "name": "Run npm start",
+            "request": "launch",
+            "type": "node-terminal"
+        },
+        {
+            "type": "jdk",
+            "request": "launch",
+            "name": "Launch Java App"
+        },
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "basic",
+            "request": "launch",
+            "mainClass": "basic",
+            "projectName": "java dsa apna collage_1772d0c9"
+        },
+        {
+            "type": "java",
+            "name": "function",
+            "request": "launch",
+            "mainClass": "function",
+            "projectName": "java dsa apna collage_1772d0c9"
+        },
+        {
+            "type": "java",
+            "name": "functions",
+            "request": "launch",
+            "mainClass": "functions",
+            "projectName": "java dsa apna collage_1772d0c9"
+        },
+        {
+            "type": "java",
+            "name": "funtion",
+            "request": "launch",
+            "mainClass": "funtion",
+            "projectName": "java dsa apna collage_1772d0c9"
+        },
+        {
+            "type": "java",
+            "name": "multiply",
+            "request": "launch",
+            "mainClass": "multiply",
+            "projectName": "java dsa apna collage_1772d0c9"
+        }
+    ]
+}
